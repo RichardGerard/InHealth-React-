@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654284662443",
+    "project_id": "reactdoctor-ee1eb",
+    "storage_bucket": "reactdoctor-ee1eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654284662443:android:ad6d5b00f7d9825abf79ee",
+        "android_client_info": {
+          "package_name": "io.instamobile.chat.rn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654284662443-o9c89fidfr1jpgfitmuiqsvshkga71n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCleFNrEXDTLUm454L5NI0hLsQMyGD92tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654284662443-o9c89fidfr1jpgfitmuiqsvshkga71n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
